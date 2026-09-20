@@ -1,0 +1,829 @@
+month,flow,category,region,amount
+2023-01,expense,COGS,West,130481.41
+2023-01,expense,Marketing,West,91381.48
+2023-01,expense,Payroll,HQ,258472.22
+2023-01,expense,Professional Services,West,25116.07
+2023-01,expense,Rent & Utilities,HQ,64387.3
+2023-01,expense,Software & IT,North,48906.48
+2023-01,expense,Travel,West,25834.51
+2023-01,income,Interest Income,North,8758.52
+2023-01,income,Interest Income,South,9498.19
+2023-01,income,Interest Income,East,9038.35
+2023-01,income,Interest Income,West,8113.57
+2023-01,income,Product Sales,North,98173.77
+2023-01,income,Product Sales,South,87863.94
+2023-01,income,Product Sales,East,101591.21
+2023-01,income,Product Sales,West,103048.81
+2023-01,income,Services,North,32351.57
+2023-01,income,Services,South,34341.48
+2023-01,income,Services,East,38727.06
+2023-01,income,Services,West,37365.15
+2023-01,income,Subscriptions,North,31322.84
+2023-01,income,Subscriptions,South,29224.54
+2023-01,income,Subscriptions,East,33571.59
+2023-01,income,Subscriptions,West,33316.64
+2023-02,expense,COGS,North,148121.78
+2023-02,expense,Marketing,West,93195.54
+2023-02,expense,Payroll,HQ,233401.18
+2023-02,expense,Professional Services,North,27081.15
+2023-02,expense,Rent & Utilities,HQ,71534.49
+2023-02,expense,Software & IT,South,53817.37
+2023-02,expense,Travel,West,28107.09
+2023-02,income,Interest Income,North,7944.83
+2023-02,income,Interest Income,South,8948.57
+2023-02,income,Interest Income,East,9011.62
+2023-02,income,Interest Income,West,8875.46
+2023-02,income,Product Sales,North,97548.88
+2023-02,income,Product Sales,South,96299.87
+2023-02,income,Product Sales,East,96653.83
+2023-02,income,Product Sales,West,96789.22
+2023-02,income,Services,North,43838.01
+2023-02,income,Services,South,36208.95
+2023-02,income,Services,East,35892.1
+2023-02,income,Services,West,34989.3
+2023-02,income,Subscriptions,North,32130.05
+2023-02,income,Subscriptions,South,33386.73
+2023-02,income,Subscriptions,East,30341.96
+2023-02,income,Subscriptions,West,28562.98
+2023-03,expense,COGS,South,160135.58
+2023-03,expense,Marketing,South,81879.58
+2023-03,expense,Payroll,HQ,242963.58
+2023-03,expense,Professional Services,North,28666.44
+2023-03,expense,Rent & Utilities,HQ,59440.02
+2023-03,expense,Software & IT,West,48698.81
+2023-03,expense,Travel,South,27196.82
+2023-03,income,Interest Income,North,10440.3
+2023-03,income,Interest Income,South,10540.02
+2023-03,income,Interest Income,East,10605.54
+2023-03,income,Interest Income,West,9694.39
+2023-03,income,Product Sales,North,115238.74
+2023-03,income,Product Sales,South,96910.79
+2023-03,income,Product Sales,East,106893.22
+2023-03,income,Product Sales,West,105570.69
+2023-03,income,Services,North,41636.76
+2023-03,income,Services,South,42913.6
+2023-03,income,Services,East,49127.23
+2023-03,income,Services,West,40840.07
+2023-03,income,Subscriptions,North,38682.37
+2023-03,income,Subscriptions,South,31067.98
+2023-03,income,Subscriptions,East,34939.54
+2023-03,income,Subscriptions,West,36368.81
+2023-04,expense,COGS,East,123570.74
+2023-04,expense,Marketing,South,80908.37
+2023-04,expense,Payroll,HQ,254718.38
+2023-04,expense,Professional Services,South,30539.47
+2023-04,expense,Rent & Utilities,HQ,60831.43
+2023-04,expense,Software & IT,North,56216.86
+2023-04,expense,Travel,South,24580.6
+2023-04,income,Interest Income,North,10672.85
+2023-04,income,Interest Income,South,10853.27
+2023-04,income,Interest Income,East,10223.55
+2023-04,income,Interest Income,West,9955.78
+2023-04,income,Product Sales,North,114789.83
+2023-04,income,Product Sales,South,119025.13
+2023-04,income,Product Sales,East,110546.96
+2023-04,income,Product Sales,West,117494.28
+2023-04,income,Services,North,42939.88
+2023-04,income,Services,South,44023.97
+2023-04,income,Services,East,43956.2
+2023-04,income,Services,West,41003.23
+2023-04,income,Subscriptions,North,38542.29
+2023-04,income,Subscriptions,South,35704.0
+2023-04,income,Subscriptions,East,37134.15
+2023-04,income,Subscriptions,West,38523.82
+2023-05,expense,COGS,East,146669.83
+2023-05,expense,Marketing,North,97338.47
+2023-05,expense,Payroll,HQ,301125.68
+2023-05,expense,Professional Services,North,31319.11
+2023-05,expense,Rent & Utilities,HQ,69805.62
+2023-05,expense,Software & IT,North,62069.3
+2023-05,expense,Travel,South,28296.2
+2023-05,income,Interest Income,North,11029.22
+2023-05,income,Interest Income,South,10501.43
+2023-05,income,Interest Income,East,11170.07
+2023-05,income,Interest Income,West,10985.12
+2023-05,income,Product Sales,North,117187.44
+2023-05,income,Product Sales,South,127742.45
+2023-05,income,Product Sales,East,111615.96
+2023-05,income,Product Sales,West,118642.92
+2023-05,income,Services,North,44583.06
+2023-05,income,Services,South,46941.49
+2023-05,income,Services,East,51493.76
+2023-05,income,Services,West,41582.68
+2023-05,income,Subscriptions,North,40849.4
+2023-05,income,Subscriptions,South,40228.22
+2023-05,income,Subscriptions,East,37600.96
+2023-05,income,Subscriptions,West,34910.48
+2023-06,expense,COGS,East,145306.41
+2023-06,expense,Marketing,South,90569.67
+2023-06,expense,Payroll,HQ,240572.66
+2023-06,expense,Professional Services,East,22948.11
+2023-06,expense,Rent & Utilities,HQ,76256.36
+2023-06,expense,Software & IT,North,55994.28
+2023-06,expense,Travel,South,27126.98
+2023-06,income,Interest Income,North,11802.67
+2023-06,income,Interest Income,South,10519.58
+2023-06,income,Interest Income,East,9475.43
+2023-06,income,Interest Income,West,11668.6
+2023-06,income,Product Sales,North,119231.82
+2023-06,income,Product Sales,South,116348.36
+2023-06,income,Product Sales,East,121744.5
+2023-06,income,Product Sales,West,111823.37
+2023-06,income,Services,North,52819.4
+2023-06,income,Services,South,49371.71
+2023-06,income,Services,East,44350.87
+2023-06,income,Services,West,46181.44
+2023-06,income,Subscriptions,North,42157.66
+2023-06,income,Subscriptions,South,43883.68
+2023-06,income,Subscriptions,East,47695.6
+2023-06,income,Subscriptions,West,50713.05
+2023-07,expense,COGS,North,140753.57
+2023-07,expense,Marketing,North,91485.5
+2023-07,expense,Payroll,HQ,259093.93
+2023-07,expense,Professional Services,North,27822.8
+2023-07,expense,Rent & Utilities,HQ,60070.98
+2023-07,expense,Software & IT,North,47770.16
+2023-07,expense,Travel,West,31708.96
+2023-07,income,Interest Income,North,9397.95
+2023-07,income,Interest Income,South,10884.58
+2023-07,income,Interest Income,East,10441.61
+2023-07,income,Interest Income,West,10002.72
+2023-07,income,Product Sales,North,107091.24
+2023-07,income,Product Sales,South,110946.81
+2023-07,income,Product Sales,East,127185.74
+2023-07,income,Product Sales,West,112587.51
+2023-07,income,Services,North,48074.59
+2023-07,income,Services,South,42790.19
+2023-07,income,Services,East,40345.41
+2023-07,income,Services,West,41129.24
+2023-07,income,Subscriptions,North,34351.04
+2023-07,income,Subscriptions,South,42676.24
+2023-07,income,Subscriptions,East,34070.5
+2023-07,income,Subscriptions,West,38912.93
+2023-08,expense,COGS,West,161892.11
+2023-08,expense,Marketing,South,92975.57
+2023-08,expense,Payroll,HQ,239222.58
+2023-08,expense,Professional Services,North,29436.62
+2023-08,expense,Rent & Utilities,HQ,68009.36
+2023-08,expense,Software & IT,East,57178.69
+2023-08,expense,Travel,South,31548.26
+2023-08,income,Interest Income,North,10543.29
+2023-08,income,Interest Income,South,10369.0
+2023-08,income,Interest Income,East,11947.55
+2023-08,income,Interest Income,West,9749.56
+2023-08,income,Product Sales,North,120356.67
+2023-08,income,Product Sales,South,129959.87
+2023-08,income,Product Sales,East,119731.21
+2023-08,income,Product Sales,West,113797.93
+2023-08,income,Services,North,51231.97
+2023-08,income,Services,South,48680.84
+2023-08,income,Services,East,52849.05
+2023-08,income,Services,West,47756.38
+2023-08,income,Subscriptions,North,34736.67
+2023-08,income,Subscriptions,South,34294.0
+2023-08,income,Subscriptions,East,43594.94
+2023-08,income,Subscriptions,West,43819.03
+2023-09,expense,COGS,North,158545.39
+2023-09,expense,Marketing,East,87822.2
+2023-09,expense,Payroll,HQ,261382.29
+2023-09,expense,Professional Services,East,25742.59
+2023-09,expense,Rent & Utilities,HQ,70996.57
+2023-09,expense,Software & IT,North,57572.56
+2023-09,expense,Travel,West,33426.14
+2023-09,income,Interest Income,North,12702.71
+2023-09,income,Interest Income,South,13481.44
+2023-09,income,Interest Income,East,12027.91
+2023-09,income,Interest Income,West,11500.4
+2023-09,income,Product Sales,North,111991.11
+2023-09,income,Product Sales,South,133440.74
+2023-09,income,Product Sales,East,124925.94
+2023-09,income,Product Sales,West,120900.8
+2023-09,income,Services,North,49820.67
+2023-09,income,Services,South,52152.82
+2023-09,income,Services,East,57511.44
+2023-09,income,Services,West,47899.15
+2023-09,income,Subscriptions,North,43949.83
+2023-09,income,Subscriptions,South,42144.22
+2023-09,income,Subscriptions,East,42693.11
+2023-09,income,Subscriptions,West,47359.45
+2023-10,expense,COGS,West,185028.53
+2023-10,expense,Marketing,West,128370.68
+2023-10,expense,Payroll,HQ,240385.34
+2023-10,expense,Professional Services,South,27723.78
+2023-10,expense,Rent & Utilities,HQ,68435.71
+2023-10,expense,Software & IT,North,58783.22
+2023-10,expense,Travel,South,33333.99
+2023-10,income,Interest Income,North,10983.8
+2023-10,income,Interest Income,South,11281.02
+2023-10,income,Interest Income,East,14958.17
+2023-10,income,Interest Income,West,11464.68
+2023-10,income,Product Sales,North,124131.73
+2023-10,income,Product Sales,South,133947.67
+2023-10,income,Product Sales,East,144141.25
+2023-10,income,Product Sales,West,154154.16
+2023-10,income,Services,North,52956.52
+2023-10,income,Services,South,53293.66
+2023-10,income,Services,East,46576.11
+2023-10,income,Services,West,55504.79
+2023-10,income,Subscriptions,North,42101.09
+2023-10,income,Subscriptions,South,44062.94
+2023-10,income,Subscriptions,East,42784.1
+2023-10,income,Subscriptions,West,45664.8
+2023-11,expense,COGS,North,158387.33
+2023-11,expense,Marketing,North,159024.72
+2023-11,expense,Payroll,HQ,285009.47
+2023-11,expense,Professional Services,North,25845.65
+2023-11,expense,Rent & Utilities,HQ,75506.69
+2023-11,expense,Software & IT,North,53723.19
+2023-11,expense,Travel,South,29840.08
+2023-11,income,Interest Income,North,15435.65
+2023-11,income,Interest Income,South,15077.01
+2023-11,income,Interest Income,East,15013.27
+2023-11,income,Interest Income,West,14146.54
+2023-11,income,Product Sales,North,175414.71
+2023-11,income,Product Sales,South,170888.8
+2023-11,income,Product Sales,East,160175.23
+2023-11,income,Product Sales,West,163376.83
+2023-11,income,Services,North,58792.12
+2023-11,income,Services,South,64799.28
+2023-11,income,Services,East,64650.18
+2023-11,income,Services,West,67284.87
+2023-11,income,Subscriptions,North,51646.28
+2023-11,income,Subscriptions,South,56086.24
+2023-11,income,Subscriptions,East,58426.18
+2023-11,income,Subscriptions,West,54719.45
+2023-12,expense,COGS,West,167523.59
+2023-12,expense,Marketing,South,99690.32
+2023-12,expense,Payroll,HQ,286001.02
+2023-12,expense,Professional Services,South,28611.31
+2023-12,expense,Rent & Utilities,HQ,76383.77
+2023-12,expense,Software & IT,South,69386.49
+2023-12,expense,Travel,East,25045.54
+2023-12,income,Interest Income,North,16798.34
+2023-12,income,Interest Income,South,18549.43
+2023-12,income,Interest Income,East,13188.13
+2023-12,income,Interest Income,West,16281.33
+2023-12,income,Product Sales,North,186390.92
+2023-12,income,Product Sales,South,189565.81
+2023-12,income,Product Sales,East,157075.21
+2023-12,income,Product Sales,West,196098.24
+2023-12,income,Services,North,75676.06
+2023-12,income,Services,South,66534.64
+2023-12,income,Services,East,70266.95
+2023-12,income,Services,West,74562.02
+2023-12,income,Subscriptions,North,59995.6
+2023-12,income,Subscriptions,South,58348.38
+2023-12,income,Subscriptions,East,59250.2
+2023-12,income,Subscriptions,West,58540.48
+2024-01,expense,COGS,West,152104.64
+2024-01,expense,Marketing,East,106084.32
+2024-01,expense,Payroll,HQ,288786.34
+2024-01,expense,Professional Services,North,24888.66
+2024-01,expense,Rent & Utilities,HQ,83314.54
+2024-01,expense,Software & IT,East,60506.31
+2024-01,expense,Travel,West,28004.13
+2024-01,income,Interest Income,North,10106.83
+2024-01,income,Interest Income,South,9492.39
+2024-01,income,Interest Income,East,10849.19
+2024-01,income,Interest Income,West,9105.64
+2024-01,income,Product Sales,North,110043.85
+2024-01,income,Product Sales,South,101271.48
+2024-01,income,Product Sales,East,107627.47
+2024-01,income,Product Sales,West,122087.75
+2024-01,income,Services,North,46296.43
+2024-01,income,Services,South,50364.79
+2024-01,income,Services,East,48401.13
+2024-01,income,Services,West,45788.37
+2024-01,income,Subscriptions,North,41241.21
+2024-01,income,Subscriptions,South,37462.94
+2024-01,income,Subscriptions,East,38589.22
+2024-01,income,Subscriptions,West,35333.23
+2024-02,expense,COGS,West,164725.35
+2024-02,expense,Marketing,East,83322.54
+2024-02,expense,Payroll,HQ,252770.8
+2024-02,expense,Professional Services,East,31300.57
+2024-02,expense,Rent & Utilities,HQ,73301.78
+2024-02,expense,Software & IT,North,61346.19
+2024-02,expense,Travel,North,26664.46
+2024-02,income,Interest Income,North,9871.43
+2024-02,income,Interest Income,South,10139.85
+2024-02,income,Interest Income,East,11083.9
+2024-02,income,Interest Income,West,8194.83
+2024-02,income,Product Sales,North,121016.13
+2024-02,income,Product Sales,South,113469.96
+2024-02,income,Product Sales,East,101926.81
+2024-02,income,Product Sales,West,99207.97
+2024-02,income,Services,North,43298.67
+2024-02,income,Services,South,38982.4
+2024-02,income,Services,East,40866.73
+2024-02,income,Services,West,44263.35
+2024-02,income,Subscriptions,North,38599.22
+2024-02,income,Subscriptions,South,37054.29
+2024-02,income,Subscriptions,East,28856.77
+2024-02,income,Subscriptions,West,36193.87
+2024-03,expense,COGS,West,172034.81
+2024-03,expense,Marketing,West,106424.59
+2024-03,expense,Payroll,HQ,310074.26
+2024-03,expense,Professional Services,East,27491.92
+2024-03,expense,Rent & Utilities,HQ,88791.72
+2024-03,expense,Software & IT,North,56439.0
+2024-03,expense,Travel,North,33432.53
+2024-03,income,Interest Income,North,10750.38
+2024-03,income,Interest Income,South,11693.57
+2024-03,income,Interest Income,East,12284.66
+2024-03,income,Interest Income,West,11517.85
+2024-03,income,Product Sales,North,128938.88
+2024-03,income,Product Sales,South,128954.3
+2024-03,income,Product Sales,East,129318.27
+2024-03,income,Product Sales,West,117838.03
+2024-03,income,Services,North,50034.68
+2024-03,income,Services,South,50014.46
+2024-03,income,Services,East,52185.23
+2024-03,income,Services,West,54682.13
+2024-03,income,Subscriptions,North,37918.29
+2024-03,income,Subscriptions,South,41012.1
+2024-03,income,Subscriptions,East,46336.1
+2024-03,income,Subscriptions,West,38962.06
+2024-04,expense,COGS,North,168183.03
+2024-04,expense,Marketing,South,94475.92
+2024-04,expense,Payroll,HQ,282198.17
+2024-04,expense,Professional Services,East,28267.47
+2024-04,expense,Rent & Utilities,HQ,74027.2
+2024-04,expense,Software & IT,North,62844.45
+2024-04,expense,Travel,South,27896.05
+2024-04,income,Interest Income,North,12327.58
+2024-04,income,Interest Income,South,12558.32
+2024-04,income,Interest Income,East,12022.09
+2024-04,income,Interest Income,West,12613.66
+2024-04,income,Product Sales,North,144499.22
+2024-04,income,Product Sales,South,114030.87
+2024-04,income,Product Sales,East,117699.57
+2024-04,income,Product Sales,West,114041.14
+2024-04,income,Services,North,48994.74
+2024-04,income,Services,South,54158.67
+2024-04,income,Services,East,54512.56
+2024-04,income,Services,West,53474.92
+2024-04,income,Subscriptions,North,37968.11
+2024-04,income,Subscriptions,South,34895.19
+2024-04,income,Subscriptions,East,42992.25
+2024-04,income,Subscriptions,West,41190.52
+2024-05,expense,COGS,North,137546.74
+2024-05,expense,Marketing,North,99062.62
+2024-05,expense,Payroll,HQ,262292.26
+2024-05,expense,Professional Services,North,26300.08
+2024-05,expense,Rent & Utilities,HQ,79283.58
+2024-05,expense,Software & IT,East,68811.58
+2024-05,expense,Travel,East,30507.67
+2024-05,income,Interest Income,North,12583.56
+2024-05,income,Interest Income,South,14023.76
+2024-05,income,Interest Income,East,12746.8
+2024-05,income,Interest Income,West,11805.86
+2024-05,income,Product Sales,North,137880.16
+2024-05,income,Product Sales,South,148425.8
+2024-05,income,Product Sales,East,116996.04
+2024-05,income,Product Sales,West,124752.63
+2024-05,income,Services,North,49073.88
+2024-05,income,Services,South,45281.56
+2024-05,income,Services,East,52654.58
+2024-05,income,Services,West,59013.62
+2024-05,income,Subscriptions,North,44514.58
+2024-05,income,Subscriptions,South,46273.56
+2024-05,income,Subscriptions,East,49522.11
+2024-05,income,Subscriptions,West,50391.15
+2024-06,expense,COGS,North,169131.01
+2024-06,expense,Marketing,East,102295.63
+2024-06,expense,Payroll,HQ,312708.06
+2024-06,expense,Professional Services,South,32803.05
+2024-06,expense,Rent & Utilities,HQ,88484.39
+2024-06,expense,Software & IT,South,71533.63
+2024-06,expense,Travel,West,29821.17
+2024-06,income,Interest Income,North,12820.53
+2024-06,income,Interest Income,South,11624.58
+2024-06,income,Interest Income,East,14307.47
+2024-06,income,Interest Income,West,12832.44
+2024-06,income,Product Sales,North,143481.56
+2024-06,income,Product Sales,South,123763.36
+2024-06,income,Product Sales,East,155770.6
+2024-06,income,Product Sales,West,137984.08
+2024-06,income,Services,North,55523.54
+2024-06,income,Services,South,53037.15
+2024-06,income,Services,East,54964.96
+2024-06,income,Services,West,59986.32
+2024-06,income,Subscriptions,North,46736.81
+2024-06,income,Subscriptions,South,48703.0
+2024-06,income,Subscriptions,East,48829.27
+2024-06,income,Subscriptions,West,52469.05
+2024-07,expense,COGS,North,171844.89
+2024-07,expense,Marketing,West,113935.14
+2024-07,expense,Payroll,HQ,284696.31
+2024-07,expense,Professional Services,East,33639.67
+2024-07,expense,Rent & Utilities,HQ,65157.14
+2024-07,expense,Software & IT,East,58882.81
+2024-07,expense,Travel,South,30079.12
+2024-07,income,Interest Income,North,10788.92
+2024-07,income,Interest Income,South,12013.69
+2024-07,income,Interest Income,East,11307.9
+2024-07,income,Interest Income,West,11422.65
+2024-07,income,Product Sales,North,119875.72
+2024-07,income,Product Sales,South,132000.07
+2024-07,income,Product Sales,East,128308.11
+2024-07,income,Product Sales,West,131802.97
+2024-07,income,Services,North,48000.86
+2024-07,income,Services,South,44889.58
+2024-07,income,Services,East,42900.63
+2024-07,income,Services,West,46832.32
+2024-07,income,Subscriptions,North,40534.77
+2024-07,income,Subscriptions,South,41091.83
+2024-07,income,Subscriptions,East,48600.12
+2024-07,income,Subscriptions,West,45801.92
+2024-08,expense,COGS,West,185716.29
+2024-08,expense,Marketing,North,113308.9
+2024-08,expense,Payroll,HQ,240080.1
+2024-08,expense,Professional Services,West,31006.23
+2024-08,expense,Rent & Utilities,HQ,63123.69
+2024-08,expense,Software & IT,East,41810.42
+2024-08,expense,Travel,North,28099.07
+2024-08,income,Interest Income,North,13266.92
+2024-08,income,Interest Income,South,10534.7
+2024-08,income,Interest Income,East,12011.72
+2024-08,income,Interest Income,West,10377.29
+2024-08,income,Product Sales,North,142082.65
+2024-08,income,Product Sales,South,135157.51
+2024-08,income,Product Sales,East,133923.33
+2024-08,income,Product Sales,West,127307.59
+2024-08,income,Services,North,56179.28
+2024-08,income,Services,South,50609.97
+2024-08,income,Services,East,57201.53
+2024-08,income,Services,West,59025.04
+2024-08,income,Subscriptions,North,45738.17
+2024-08,income,Subscriptions,South,43417.66
+2024-08,income,Subscriptions,East,46048.99
+2024-08,income,Subscriptions,West,43337.94
+2024-09,expense,COGS,South,158952.09
+2024-09,expense,Marketing,North,107226.48
+2024-09,expense,Payroll,HQ,327593.2
+2024-09,expense,Professional Services,West,28882.15
+2024-09,expense,Rent & Utilities,HQ,77548.47
+2024-09,expense,Software & IT,West,69940.04
+2024-09,expense,Travel,North,27392.73
+2024-09,income,Interest Income,North,12961.99
+2024-09,income,Interest Income,South,13054.68
+2024-09,income,Interest Income,East,15554.34
+2024-09,income,Interest Income,West,13837.53
+2024-09,income,Product Sales,North,147659.17
+2024-09,income,Product Sales,South,160330.35
+2024-09,income,Product Sales,East,135275.71
+2024-09,income,Product Sales,West,150902.23
+2024-09,income,Services,North,62323.68
+2024-09,income,Services,South,61405.71
+2024-09,income,Services,East,65743.35
+2024-09,income,Services,West,63536.41
+2024-09,income,Subscriptions,North,53294.32
+2024-09,income,Subscriptions,South,47803.55
+2024-09,income,Subscriptions,East,54223.1
+2024-09,income,Subscriptions,West,57182.07
+2024-10,expense,COGS,North,177295.34
+2024-10,expense,Marketing,East,110044.29
+2024-10,expense,Payroll,HQ,301262.44
+2024-10,expense,Professional Services,West,26735.95
+2024-10,expense,Rent & Utilities,HQ,75675.32
+2024-10,expense,Software & IT,West,59196.74
+2024-10,expense,Travel,North,28235.1
+2024-10,income,Interest Income,North,14987.95
+2024-10,income,Interest Income,South,13558.07
+2024-10,income,Interest Income,East,15581.95
+2024-10,income,Interest Income,West,15529.82
+2024-10,income,Product Sales,North,141907.05
+2024-10,income,Product Sales,South,170501.06
+2024-10,income,Product Sales,East,155235.53
+2024-10,income,Product Sales,West,177124.39
+2024-10,income,Services,North,52461.83
+2024-10,income,Services,South,60807.84
+2024-10,income,Services,East,56136.18
+2024-10,income,Services,West,60601.93
+2024-10,income,Subscriptions,North,54144.68
+2024-10,income,Subscriptions,South,52331.49
+2024-10,income,Subscriptions,East,52016.54
+2024-10,income,Subscriptions,West,52416.62
+2024-11,expense,COGS,West,194808.98
+2024-11,expense,Marketing,South,143904.24
+2024-11,expense,Payroll,HQ,253643.66
+2024-11,expense,Professional Services,North,27895.04
+2024-11,expense,Rent & Utilities,HQ,80951.31
+2024-11,expense,Software & IT,South,47430.27
+2024-11,expense,Travel,West,30327.0
+2024-11,income,Interest Income,North,17229.4
+2024-11,income,Interest Income,South,17686.77
+2024-11,income,Interest Income,East,16076.74
+2024-11,income,Interest Income,West,17586.72
+2024-11,income,Product Sales,North,177010.23
+2024-11,income,Product Sales,South,189482.24
+2024-11,income,Product Sales,East,195656.01
+2024-11,income,Product Sales,West,191339.4
+2024-11,income,Services,North,71555.73
+2024-11,income,Services,South,81713.15
+2024-11,income,Services,East,80732.77
+2024-11,income,Services,West,75250.38
+2024-11,income,Subscriptions,North,59107.48
+2024-11,income,Subscriptions,South,65101.23
+2024-11,income,Subscriptions,East,63302.85
+2024-11,income,Subscriptions,West,55140.01
+2024-12,expense,COGS,North,197096.42
+2024-12,expense,Marketing,East,104265.4
+2024-12,expense,Payroll,HQ,284517.34
+2024-12,expense,Professional Services,South,33495.03
+2024-12,expense,Rent & Utilities,HQ,83762.19
+2024-12,expense,Software & IT,West,68419.7
+2024-12,expense,Travel,North,33209.17
+2024-12,income,Interest Income,North,20394.68
+2024-12,income,Interest Income,South,19520.01
+2024-12,income,Interest Income,East,16430.58
+2024-12,income,Interest Income,West,19939.39
+2024-12,income,Product Sales,North,244305.75
+2024-12,income,Product Sales,South,190819.59
+2024-12,income,Product Sales,East,196534.9
+2024-12,income,Product Sales,West,214615.41
+2024-12,income,Services,North,95119.16
+2024-12,income,Services,South,76019.38
+2024-12,income,Services,East,85937.76
+2024-12,income,Services,West,96535.95
+2024-12,income,Subscriptions,North,59829.56
+2024-12,income,Subscriptions,South,61873.97
+2024-12,income,Subscriptions,East,66602.99
+2024-12,income,Subscriptions,West,66068.12
+2025-01,expense,COGS,South,189302.96
+2025-01,expense,Marketing,North,80438.89
+2025-01,expense,Payroll,HQ,275920.13
+2025-01,expense,Professional Services,North,29350.63
+2025-01,expense,Rent & Utilities,HQ,87927.08
+2025-01,expense,Software & IT,West,76026.65
+2025-01,expense,Travel,South,24424.22
+2025-01,income,Interest Income,North,11850.02
+2025-01,income,Interest Income,South,11025.38
+2025-01,income,Interest Income,East,12037.69
+2025-01,income,Interest Income,West,11105.39
+2025-01,income,Product Sales,North,117046.39
+2025-01,income,Product Sales,South,130006.82
+2025-01,income,Product Sales,East,113070.97
+2025-01,income,Product Sales,West,132161.26
+2025-01,income,Services,North,47748.38
+2025-01,income,Services,South,45804.55
+2025-01,income,Services,East,53956.8
+2025-01,income,Services,West,52028.73
+2025-01,income,Subscriptions,North,39710.39
+2025-01,income,Subscriptions,South,46609.93
+2025-01,income,Subscriptions,East,40289.45
+2025-01,income,Subscriptions,West,41868.91
+2025-02,expense,COGS,South,148665.6
+2025-02,expense,Marketing,East,112587.96
+2025-02,expense,Payroll,HQ,336787.7
+2025-02,expense,Professional Services,South,25242.88
+2025-02,expense,Rent & Utilities,HQ,69357.99
+2025-02,expense,Software & IT,North,61845.35
+2025-02,expense,Travel,South,34067.76
+2025-02,income,Interest Income,North,11474.26
+2025-02,income,Interest Income,South,10971.55
+2025-02,income,Interest Income,East,12999.5
+2025-02,income,Interest Income,West,11167.52
+2025-02,income,Product Sales,North,122685.7
+2025-02,income,Product Sales,South,113482.19
+2025-02,income,Product Sales,East,130354.6
+2025-02,income,Product Sales,West,129805.92
+2025-02,income,Services,North,43873.95
+2025-02,income,Services,South,52618.77
+2025-02,income,Services,East,58014.47
+2025-02,income,Services,West,50516.94
+2025-02,income,Subscriptions,North,39670.91
+2025-02,income,Subscriptions,South,40307.99
+2025-02,income,Subscriptions,East,42777.93
+2025-02,income,Subscriptions,West,35126.24
+2025-03,expense,COGS,East,176852.02
+2025-03,expense,Marketing,West,117190.85
+2025-03,expense,Payroll,HQ,306426.98
+2025-03,expense,Professional Services,North,29471.73
+2025-03,expense,Rent & Utilities,HQ,82224.31
+2025-03,expense,Software & IT,East,69658.95
+2025-03,expense,Travel,East,29606.99
+2025-03,income,Interest Income,North,11879.43
+2025-03,income,Interest Income,South,14166.09
+2025-03,income,Interest Income,East,13649.35
+2025-03,income,Interest Income,West,15809.19
+2025-03,income,Product Sales,North,145855.52
+2025-03,income,Product Sales,South,135516.05
+2025-03,income,Product Sales,East,142060.53
+2025-03,income,Product Sales,West,145107.39
+2025-03,income,Services,North,50452.17
+2025-03,income,Services,South,50872.8
+2025-03,income,Services,East,60677.45
+2025-03,income,Services,West,55981.14
+2025-03,income,Subscriptions,North,37993.76
+2025-03,income,Subscriptions,South,50803.05
+2025-03,income,Subscriptions,East,48843.27
+2025-03,income,Subscriptions,West,45071.74
+2025-04,expense,COGS,East,189608.01
+2025-04,expense,Marketing,South,98544.71
+2025-04,expense,Payroll,HQ,294718.39
+2025-04,expense,Professional Services,North,33389.93
+2025-04,expense,Rent & Utilities,HQ,82358.5
+2025-04,expense,Software & IT,North,61018.96
+2025-04,expense,Travel,North,33220.89
+2025-04,income,Interest Income,North,13499.74
+2025-04,income,Interest Income,South,14942.12
+2025-04,income,Interest Income,East,13451.5
+2025-04,income,Interest Income,West,12589.02
+2025-04,income,Product Sales,North,169016.74
+2025-04,income,Product Sales,South,145385.27
+2025-04,income,Product Sales,East,145796.6
+2025-04,income,Product Sales,West,154717.5
+2025-04,income,Services,North,59183.2
+2025-04,income,Services,South,64968.18
+2025-04,income,Services,East,49494.92
+2025-04,income,Services,West,56377.47
+2025-04,income,Subscriptions,North,46302.03
+2025-04,income,Subscriptions,South,40224.86
+2025-04,income,Subscriptions,East,45585.93
+2025-04,income,Subscriptions,West,45777.5
+2025-05,expense,COGS,West,154045.67
+2025-05,expense,Marketing,East,111030.59
+2025-05,expense,Payroll,HQ,265460.91
+2025-05,expense,Professional Services,West,33992.25
+2025-05,expense,Rent & Utilities,HQ,83174.79
+2025-05,expense,Software & IT,North,61894.67
+2025-05,expense,Travel,West,32037.93
+2025-05,income,Interest Income,North,13522.86
+2025-05,income,Interest Income,South,16307.62
+2025-05,income,Interest Income,East,14930.94
+2025-05,income,Interest Income,West,15497.14
+2025-05,income,Product Sales,North,147309.98
+2025-05,income,Product Sales,South,160454.17
+2025-05,income,Product Sales,East,157902.34
+2025-05,income,Product Sales,West,144986.76
+2025-05,income,Services,North,56208.28
+2025-05,income,Services,South,67768.19
+2025-05,income,Services,East,62440.06
+2025-05,income,Services,West,58989.76
+2025-05,income,Subscriptions,North,52158.65
+2025-05,income,Subscriptions,South,57306.46
+2025-05,income,Subscriptions,East,42972.48
+2025-05,income,Subscriptions,West,46269.65
+2025-06,expense,COGS,North,194890.88
+2025-06,expense,Marketing,North,101113.91
+2025-06,expense,Payroll,HQ,356251.82
+2025-06,expense,Professional Services,South,34174.53
+2025-06,expense,Rent & Utilities,HQ,84637.75
+2025-06,expense,Software & IT,South,66455.98
+2025-06,expense,Travel,East,35796.23
+2025-06,income,Interest Income,North,15224.59
+2025-06,income,Interest Income,South,14846.5
+2025-06,income,Interest Income,East,13975.47
+2025-06,income,Interest Income,West,17703.69
+2025-06,income,Product Sales,North,145634.65
+2025-06,income,Product Sales,South,137236.7
+2025-06,income,Product Sales,East,180725.99
+2025-06,income,Product Sales,West,183215.4
+2025-06,income,Services,North,61462.33
+2025-06,income,Services,South,56969.06
+2025-06,income,Services,East,67457.15
+2025-06,income,Services,West,71910.75
+2025-06,income,Subscriptions,North,62633.04
+2025-06,income,Subscriptions,South,57020.1
+2025-06,income,Subscriptions,East,53130.0
+2025-06,income,Subscriptions,West,50845.86
+2025-07,expense,COGS,West,172978.69
+2025-07,expense,Marketing,North,130532.71
+2025-07,expense,Payroll,HQ,261197.81
+2025-07,expense,Professional Services,North,30971.06
+2025-07,expense,Rent & Utilities,HQ,86098.38
+2025-07,expense,Software & IT,East,63297.4
+2025-07,expense,Travel,West,31752.28
+2025-07,income,Interest Income,North,13706.18
+2025-07,income,Interest Income,South,12307.52
+2025-07,income,Interest Income,East,13915.71
+2025-07,income,Interest Income,West,13552.52
+2025-07,income,Product Sales,North,155920.36
+2025-07,income,Product Sales,South,152405.81
+2025-07,income,Product Sales,East,127191.53
+2025-07,income,Product Sales,West,149353.49
+2025-07,income,Services,North,56703.85
+2025-07,income,Services,South,53268.29
+2025-07,income,Services,East,67328.91
+2025-07,income,Services,West,67552.9
+2025-07,income,Subscriptions,North,53834.21
+2025-07,income,Subscriptions,South,49545.85
+2025-07,income,Subscriptions,East,53800.82
+2025-07,income,Subscriptions,West,48601.33
+2025-08,expense,COGS,East,173268.21
+2025-08,expense,Marketing,North,97836.46
+2025-08,expense,Payroll,HQ,336653.33
+2025-08,expense,Professional Services,East,30316.55
+2025-08,expense,Rent & Utilities,HQ,81547.44
+2025-08,expense,Software & IT,South,62560.59
+2025-08,expense,Travel,South,30080.5
+2025-08,income,Interest Income,North,13007.88
+2025-08,income,Interest Income,South,14635.3
+2025-08,income,Interest Income,East,14674.81
+2025-08,income,Interest Income,West,15709.46
+2025-08,income,Product Sales,North,154776.0
+2025-08,income,Product Sales,South,147317.97
+2025-08,income,Product Sales,East,140998.34
+2025-08,income,Product Sales,West,163076.63
+2025-08,income,Services,North,64629.26
+2025-08,income,Services,South,53710.18
+2025-08,income,Services,East,62052.62
+2025-08,income,Services,West,67659.55
+2025-08,income,Subscriptions,North,55618.38
+2025-08,income,Subscriptions,South,55481.43
+2025-08,income,Subscriptions,East,51433.18
+2025-08,income,Subscriptions,West,47807.28
+2025-09,expense,COGS,South,206590.9
+2025-09,expense,Marketing,North,109392.74
+2025-09,expense,Payroll,HQ,320866.03
+2025-09,expense,Professional Services,South,38458.51
+2025-09,expense,Rent & Utilities,HQ,75107.37
+2025-09,expense,Software & IT,East,59166.76
+2025-09,expense,Travel,North,37126.78
+2025-09,income,Interest Income,North,16255.37
+2025-09,income,Interest Income,South,16062.7
+2025-09,income,Interest Income,East,17790.34
+2025-09,income,Interest Income,West,12748.01
+2025-09,income,Product Sales,North,169405.76
+2025-09,income,Product Sales,South,182812.16
+2025-09,income,Product Sales,East,172631.7
+2025-09,income,Product Sales,West,181851.13
+2025-09,income,Services,North,72906.55
+2025-09,income,Services,South,64843.56
+2025-09,income,Services,East,68600.35
+2025-09,income,Services,West,79553.67
+2025-09,income,Subscriptions,North,52948.04
+2025-09,income,Subscriptions,South,48490.18
+2025-09,income,Subscriptions,East,49680.14
+2025-09,income,Subscriptions,West,58510.89
+2025-10,expense,COGS,North,188116.29
+2025-10,expense,Marketing,North,92588.18
+2025-10,expense,Payroll,HQ,322173.4
+2025-10,expense,Professional Services,West,30533.4
+2025-10,expense,Rent & Utilities,HQ,73967.06
+2025-10,expense,Software & IT,West,56153.41
+2025-10,expense,Travel,East,32617.06
+2025-10,income,Interest Income,North,18254.6
+2025-10,income,Interest Income,South,17059.94
+2025-10,income,Interest Income,East,17396.88
+2025-10,income,Interest Income,West,17036.66
+2025-10,income,Product Sales,North,215723.05
+2025-10,income,Product Sales,South,187726.59
+2025-10,income,Product Sales,East,213456.22
+2025-10,income,Product Sales,West,185796.62
+2025-10,income,Services,North,75662.59
+2025-10,income,Services,South,77066.79
+2025-10,income,Services,East,93919.5
+2025-10,income,Services,West,79976.9
+2025-10,income,Subscriptions,North,57797.07
+2025-10,income,Subscriptions,South,66012.56
+2025-10,income,Subscriptions,East,59490.06
+2025-10,income,Subscriptions,West,58863.13
+2025-11,expense,COGS,South,164121.53
+2025-11,expense,Marketing,West,141277.36
+2025-11,expense,Payroll,HQ,349139.98
+2025-11,expense,Professional Services,East,27849.94
+2025-11,expense,Rent & Utilities,HQ,86350.48
+2025-11,expense,Software & IT,North,75499.23
+2025-11,expense,Travel,East,25172.01
+2025-11,income,Interest Income,North,19636.26
+2025-11,income,Interest Income,South,19824.24
+2025-11,income,Interest Income,East,19944.88
+2025-11,income,Interest Income,West,20350.33
+2025-11,income,Product Sales,North,234504.45
+2025-11,income,Product Sales,South,196275.84
+2025-11,income,Product Sales,East,212727.38
+2025-11,income,Product Sales,West,209597.43
+2025-11,income,Services,North,87626.54
+2025-11,income,Services,South,89916.54
+2025-11,income,Services,East,80862.46
+2025-11,income,Services,West,93050.65
+2025-11,income,Subscriptions,North,72325.35
+2025-11,income,Subscriptions,South,61070.69
+2025-11,income,Subscriptions,East,60687.01
+2025-11,income,Subscriptions,West,71891.73
+2025-12,expense,COGS,East,189140.81
+2025-12,expense,Marketing,East,106662.61
+2025-12,expense,Payroll,HQ,282999.2
+2025-12,expense,Professional Services,East,38103.4
+2025-12,expense,Rent & Utilities,HQ,88765.87
+2025-12,expense,Software & IT,North,72095.6
+2025-12,expense,Travel,West,32025.73
+2025-12,income,Interest Income,North,24904.51
+2025-12,income,Interest Income,South,20996.93
+2025-12,income,Interest Income,East,25738.92
+2025-12,income,Interest Income,West,21698.33
+2025-12,income,Product Sales,North,232220.07
+2025-12,income,Product Sales,South,235124.02
+2025-12,income,Product Sales,East,243815.45
+2025-12,income,Product Sales,West,237003.25
+2025-12,income,Services,North,105387.95
+2025-12,income,Services,South,91967.97
+2025-12,income,Services,East,90518.91
+2025-12,income,Services,West,100950.83
+2025-12,income,Subscriptions,North,69775.96
+2025-12,income,Subscriptions,South,82028.57
+2025-12,income,Subscriptions,East,80201.26
+2025-12,income,Subscriptions,West,78610.31
